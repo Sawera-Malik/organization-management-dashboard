@@ -1,0 +1,361 @@
+{
+  "org-1": {
+    "7d": {
+      "revenue": 34500,
+      "activeUsers": 1280,
+      "conversionRate": 3.12,
+      "projects": 3,
+      "tasksCompleted": 64,
+      "monthlyGrowth": 8.4,
+      "revenueTrend": [
+        { "date": "Mon", "value": 4200 },
+        { "date": "Tue", "value": 4800 },
+        { "date": "Wed", "value": 4500 },
+        { "date": "Thu", "value": 5100 },
+        { "date": "Fri", "value": 5600 },
+        { "date": "Sat", "value": 5000 },
+        { "date": "Sun", "value": 5300 }
+      ],
+      "userActivity": [
+        { "label": "Mon", "value": 850 },
+        { "label": "Tue", "value": 920 },
+        { "label": "Wed", "value": 880 },
+        { "label": "Thu", "value": 990 },
+        { "label": "Fri", "value": 1050 },
+        { "label": "Sat", "value": 720 },
+        { "label": "Sun", "value": 780 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 1, "percentage": 33, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 33, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 33, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Design system tokens", "time": "2 hours ago", "avatarColor": "bg-indigo-500" },
+        { "id": "act2", "user": "James Miller", "avatar": "JM", "action": "moved project to Review", "target": "CRM Migration", "time": "4 hours ago", "avatarColor": "bg-blue-500" }
+      ]
+    },
+    "30d": {
+      "revenue": 143000,
+      "activeUsers": 2180,
+      "conversionRate": 3.24,
+      "projects": 3,
+      "tasksCompleted": 284,
+      "monthlyGrowth": 12.4,
+      "revenueTrend": [
+        { "date": "Week 1", "value": 31000 },
+        { "date": "Week 2", "value": 34000 },
+        { "date": "Week 3", "value": 38000 },
+        { "date": "Week 4", "value": 40000 }
+      ],
+      "userActivity": [
+        { "label": "Week 1", "value": 1800 },
+        { "label": "Week 2", "value": 1950 },
+        { "label": "Week 3", "value": 2100 },
+        { "label": "Week 4", "value": 2180 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 1, "percentage": 33, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 33, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 33, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Design system tokens", "time": "2 hours ago", "avatarColor": "bg-indigo-500" },
+        { "id": "act2", "user": "James Miller", "avatar": "JM", "action": "moved project to Review", "target": "CRM Migration", "time": "15 hours ago", "avatarColor": "bg-blue-500" },
+        { "id": "act3", "user": "Emily Park", "avatar": "EP", "action": "completed task", "target": "API Integration", "time": "1 day ago", "avatarColor": "bg-amber-500" },
+        { "id": "act4", "user": "Alex Torres", "avatar": "AT", "action": "commented on", "target": "UI Redesign", "time": "3 days ago", "avatarColor": "bg-emerald-500" }
+      ]
+    },
+    "90d": {
+      "revenue": 420000,
+      "activeUsers": 2540,
+      "conversionRate": 3.45,
+      "projects": 4,
+      "tasksCompleted": 850,
+      "monthlyGrowth": 14.2,
+      "revenueTrend": [
+        { "date": "Month 1", "value": 125000 },
+        { "date": "Month 2", "value": 138000 },
+        { "date": "Month 3", "value": 157000 }
+      ],
+      "userActivity": [
+        { "label": "Month 1", "value": 2200 },
+        { "label": "Month 2", "value": 2400 },
+        { "label": "Month 3", "value": 2540 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 2, "percentage": 50, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 25, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 25, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Design system tokens", "time": "2 hours ago", "avatarColor": "bg-indigo-500" },
+        { "id": "act2", "user": "James Miller", "avatar": "JM", "action": "moved project to Review", "target": "CRM Migration", "time": "15 hours ago", "avatarColor": "bg-blue-500" }
+      ]
+    },
+    "this_year": {
+      "revenue": 1650000,
+      "activeUsers": 3100,
+      "conversionRate": 3.65,
+      "projects": 8,
+      "tasksCompleted": 3200,
+      "monthlyGrowth": 18.5,
+      "revenueTrend": [
+        { "date": "Jan", "value": 110000 },
+        { "date": "Feb", "value": 115000 },
+        { "date": "Mar", "value": 125000 },
+        { "date": "Apr", "value": 120000 },
+        { "date": "May", "value": 138000 },
+        { "date": "Jun", "value": 145000 },
+        { "date": "Jul", "value": 157000 },
+        { "date": "Aug", "value": 165000 }
+      ],
+      "userActivity": [
+        { "label": "Jan", "value": 1800 },
+        { "label": "Feb", "value": 1950 },
+        { "label": "Mar", "value": 2100 },
+        { "label": "Apr", "value": 2200 },
+        { "label": "May", "value": 2400 },
+        { "label": "Jun", "value": 2600 },
+        { "label": "Jul", "value": 2800 },
+        { "label": "Aug", "value": 3100 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 5, "percentage": 62, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 2, "percentage": 25, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 13, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Design system tokens", "time": "2 hours ago", "avatarColor": "bg-indigo-500" }
+      ]
+    }
+  },
+  "org-2": {
+    "7d": {
+      "revenue": 21500,
+      "activeUsers": 920,
+      "conversionRate": 2.45,
+      "projects": 2,
+      "tasksCompleted": 32,
+      "monthlyGrowth": 10.2,
+      "revenueTrend": [
+        { "date": "Mon", "value": 2800 },
+        { "date": "Tue", "value": 3100 },
+        { "date": "Wed", "value": 2900 },
+        { "date": "Thu", "value": 3300 },
+        { "date": "Fri", "value": 3400 },
+        { "date": "Sat", "value": 2900 },
+        { "date": "Sun", "value": 3100 }
+      ],
+      "userActivity": [
+        { "label": "Mon", "value": 650 },
+        { "label": "Tue", "value": 720 },
+        { "label": "Wed", "value": 700 },
+        { "label": "Thu", "value": 780 },
+        { "label": "Fri", "value": 810 },
+        { "label": "Sat", "value": 590 },
+        { "label": "Sun", "value": 630 }
+      ],
+      "projectDistribution": [
+        { "status": "In Progress", "count": 1, "percentage": 50, "color": "bg-indigo-500" },
+        { "status": "Backlog", "count": 1, "percentage": 50, "color": "bg-slate-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Push notification service", "time": "45 min ago", "avatarColor": "bg-indigo-500" }
+      ]
+    },
+    "30d": {
+      "revenue": 98500,
+      "activeUsers": 1420,
+      "conversionRate": 2.85,
+      "projects": 2,
+      "tasksCompleted": 125,
+      "monthlyGrowth": 15.2,
+      "revenueTrend": [
+        { "date": "Week 1", "value": 22000 },
+        { "date": "Week 2", "value": 24000 },
+        { "date": "Week 3", "value": 26000 },
+        { "date": "Week 4", "value": 26500 }
+      ],
+      "userActivity": [
+        { "label": "Week 1", "value": 1100 },
+        { "label": "Week 2", "value": 1220 },
+        { "label": "Week 3", "value": 1350 },
+        { "label": "Week 4", "value": 1420 }
+      ],
+      "projectDistribution": [
+        { "status": "In Progress", "count": 1, "percentage": 50, "color": "bg-indigo-500" },
+        { "status": "Backlog", "count": 1, "percentage": 50, "color": "bg-slate-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Push notification service", "time": "45 min ago", "avatarColor": "bg-indigo-500" },
+        { "id": "act2", "user": "Sarah Chen", "avatar": "SC", "action": "created project", "target": "Mobile Application", "time": "2 days ago", "avatarColor": "bg-indigo-500" }
+      ]
+    },
+    "90d": {
+      "revenue": 280000,
+      "activeUsers": 1650,
+      "conversionRate": 2.95,
+      "projects": 3,
+      "tasksCompleted": 420,
+      "monthlyGrowth": 16.5,
+      "revenueTrend": [
+        { "date": "Month 1", "value": 85000 },
+        { "date": "Month 2", "value": 93000 },
+        { "date": "Month 3", "value": 102000 }
+      ],
+      "userActivity": [
+        { "label": "Month 1", "value": 1300 },
+        { "label": "Month 2", "value": 1500 },
+        { "label": "Month 3", "value": 1650 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 1, "percentage": 33, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 33, "color": "bg-indigo-500" },
+        { "status": "Backlog", "count": 1, "percentage": 33, "color": "bg-slate-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Push notification service", "time": "45 min ago", "avatarColor": "bg-indigo-500" }
+      ]
+    },
+    "this_year": {
+      "revenue": 1150000,
+      "activeUsers": 1950,
+      "conversionRate": 3.1,
+      "projects": 5,
+      "tasksCompleted": 1800,
+      "monthlyGrowth": 19.4,
+      "revenueTrend": [
+        { "date": "Jan", "value": 75000 },
+        { "date": "Feb", "value": 82000 },
+        { "date": "Mar", "value": 89000 },
+        { "date": "Apr", "value": 91000 },
+        { "date": "May", "value": 98000 },
+        { "date": "Jun", "value": 102000 },
+        { "date": "Jul", "value": 110000 },
+        { "date": "Aug", "value": 115000 }
+      ],
+      "userActivity": [
+        { "label": "Jan", "value": 1100 },
+        { "label": "Feb", "value": 1200 },
+        { "label": "Mar", "value": 1350 },
+        { "label": "Apr", "value": 1450 },
+        { "label": "May", "value": 1600 },
+        { "label": "Jun", "value": 1700 },
+        { "label": "Jul", "value": 1850 },
+        { "label": "Aug", "value": 1950 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 3, "percentage": 60, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 20, "color": "bg-indigo-500" },
+        { "status": "Backlog", "count": 1, "percentage": 20, "color": "bg-slate-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Sarah Chen", "avatar": "SC", "action": "completed task", "target": "Push notification service", "time": "45 min ago", "avatarColor": "bg-indigo-500" }
+      ]
+    }
+  },
+  "org-3": {
+    "7d": {
+      "revenue": 0,
+      "activeUsers": 0,
+      "conversionRate": 0,
+      "projects": 0,
+      "tasksCompleted": 0,
+      "monthlyGrowth": 0,
+      "revenueTrend": [],
+      "userActivity": [],
+      "projectDistribution": [],
+      "recentActivity": []
+    },
+    "30d": {
+      "revenue": 45200,
+      "activeUsers": 820,
+      "conversionRate": 1.92,
+      "projects": 2,
+      "tasksCompleted": 78,
+      "monthlyGrowth": 6.4,
+      "revenueTrend": [
+        { "date": "Week 1", "value": 10000 },
+        { "date": "Week 2", "value": 11000 },
+        { "date": "Week 3", "value": 12000 },
+        { "date": "Week 4", "value": 12200 }
+      ],
+      "userActivity": [
+        { "label": "Week 1", "value": 600 },
+        { "label": "Week 2", "value": 680 },
+        { "label": "Week 3", "value": 750 },
+        { "label": "Week 4", "value": 820 }
+      ],
+      "projectDistribution": [
+        { "status": "In Progress", "count": 1, "percentage": 50, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 50, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Emily Park", "avatar": "EP", "action": "completed task", "target": "Secure document upload", "time": "30 min ago", "avatarColor": "bg-amber-500" },
+        { "id": "act2", "user": "Emily Park", "avatar": "EP", "action": "created project", "target": "Research Portal", "time": "4 hours ago", "avatarColor": "bg-amber-500" }
+      ]
+    },
+    "90d": {
+      "revenue": 128000,
+      "activeUsers": 980,
+      "conversionRate": 2.15,
+      "projects": 2,
+      "tasksCompleted": 210,
+      "monthlyGrowth": 8.2,
+      "revenueTrend": [
+        { "date": "Month 1", "value": 38000 },
+        { "date": "Month 2", "value": 42000 },
+        { "date": "Month 3", "value": 48000 }
+      ],
+      "userActivity": [
+        { "label": "Month 1", "value": 750 },
+        { "label": "Month 2", "value": 880 },
+        { "label": "Month 3", "value": 980 }
+      ],
+      "projectDistribution": [
+        { "status": "In Progress", "count": 1, "percentage": 50, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 50, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Emily Park", "avatar": "EP", "action": "completed task", "target": "Secure document upload", "time": "30 min ago", "avatarColor": "bg-amber-500" }
+      ]
+    },
+    "this_year": {
+      "revenue": 520000,
+      "activeUsers": 1150,
+      "conversionRate": 2.38,
+      "projects": 4,
+      "tasksCompleted": 940,
+      "monthlyGrowth": 9.8,
+      "revenueTrend": [
+        { "date": "Jan", "value": 32000 },
+        { "date": "Feb", "value": 35000 },
+        { "date": "Mar", "value": 38000 },
+        { "date": "Apr", "value": 41000 },
+        { "date": "May", "value": 44000 },
+        { "date": "Jun", "value": 47000 },
+        { "date": "Jul", "value": 50000 },
+        { "date": "Aug", "value": 52000 }
+      ],
+      "userActivity": [
+        { "label": "Jan", "value": 700 },
+        { "label": "Feb", "value": 750 },
+        { "label": "Mar", "value": 810 },
+        { "label": "Apr", "value": 880 },
+        { "label": "May", "value": 950 },
+        { "label": "Jun", "value": 1020 },
+        { "label": "Jul", "value": 1100 },
+        { "label": "Aug", "value": 1150 }
+      ],
+      "projectDistribution": [
+        { "status": "Completed", "count": 2, "percentage": 50, "color": "bg-emerald-500" },
+        { "status": "In Progress", "count": 1, "percentage": 25, "color": "bg-indigo-500" },
+        { "status": "Review", "count": 1, "percentage": 25, "color": "bg-amber-500" }
+      ],
+      "recentActivity": [
+        { "id": "act1", "user": "Emily Park", "avatar": "EP", "action": "completed task", "target": "Secure document upload", "time": "30 min ago", "avatarColor": "bg-amber-500" }
+      ]
+    }
+  }
+}
