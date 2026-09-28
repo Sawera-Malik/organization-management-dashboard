@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import { DashboardLayout } from '../../components/layout/DashboardLayout'
 import { RoleBadge } from '../../components/ui/RoleBadge'
 import { useAuth } from '../../hooks/useAuth'
-import { usePermissions } from '../../hooks/usePermissions'
 import { useOrganization } from '../../hooks/useOrganization'
 import { getProjects, getTasks, getUsers } from '../../services/dbService'
 import { StatCard } from '../../components/analytics/StatCard'
@@ -30,7 +29,6 @@ const DEFAULT_WIDGETS: WidgetConfig[] = [
 
 export function DashboardPage() {
   const { session } = useAuth()
-  const { hasPermission } = usePermissions()
   const { activeOrganization, isSwitching } = useOrganization()
   const user = session?.user
 
