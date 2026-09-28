@@ -7,7 +7,6 @@ import { PermissionRoute } from './components/routing/PermissionRoute'
 // Pages
 import { LoginPage } from './pages/Login/LoginPage'
 import { DashboardPage } from './pages/Dashboard/DashboardPage'
-import { AnalyticsPage } from './pages/Analytics/AnalyticsPage'
 import { TasksPage } from './pages/Tasks/TasksPage'
 import { UsersPage } from './pages/Users/UsersPage'
 import { OrganizationPage } from './pages/Organization/OrganizationPage'
